@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Computer Science Master Degree student <br>👯 Cloud Engineer to be...
+🔭 Computer Science Master Degree student <br>👯 Cloud Engineer at Cloud9 Reply
 
 
 ## 🌐 Socials:
