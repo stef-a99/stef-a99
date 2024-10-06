@@ -13,7 +13,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=stef-a99&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### ✍️ Random Dev Quote
-[![Readme Quotes](https://github.com/piyushsuthar/github-readme-quotes?quote="Never gonna give you up Never Gonna let you down Never gonan run around and desert you"&author=Rick Astley)
+[![Readme Quotes](https://github.com/piyushsuthar/github-readme-quotes)]
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=stef-a99&limit=5&theme=transparent&combine_all_yearly_contributions=true)
